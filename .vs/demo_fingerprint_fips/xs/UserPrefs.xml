@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F74E15BA-ED96-45A2-A9A9-036FF793D070}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo_fingerprint_fips/MainActivity.cs">
+    <Files>
+      <File FileName="demo_fingerprint_fips/MainActivity.cs" Line="236" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo_fingerprint_fips" expanded="True">
+            <Node name="demo_fingerprint_fips" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.demo__fingerprint__fips PreferredExecutionTarget="Android.HC710A180600045" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
